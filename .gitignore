@@ -1,0 +1,5 @@
+Unity3D Project/Library
+Unity3D Project/Temp
+*.csproj
+*.sln
+*.userprefs
